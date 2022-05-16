@@ -1,0 +1,16 @@
+{
+  "name": "Wakie-Talkie",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+     "socket.io": "^2.2.0"
+ },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+  }
