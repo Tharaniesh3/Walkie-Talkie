@@ -1,5 +1,5 @@
 # Walkie-Talkie
-### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). I have made a react and socket.io based Chat app.
+### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). I have made a chat app using reactJS and socket.io.
 Have a look on it. https://tharaniesh3.github.io/Walkie-Talkie/
 ## THIS IS HOW IT LOOKS LIKE
  ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Walkie-Talkie/main/eg.png)
